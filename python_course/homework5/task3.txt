@@ -1,0 +1,4 @@
+Mask 30000
+Bezos 28000
+Gates 15000
+Yinglin 13000
